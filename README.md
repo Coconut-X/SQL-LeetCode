@@ -18,12 +18,14 @@
 | [0100-same-tree](https://github.com/Coconut-X/SQL-LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Coconut-X/SQL-LeetCode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Coconut-X/SQL-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/Coconut-X/SQL-LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Coconut-X/SQL-LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Coconut-X/SQL-LeetCode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Coconut-X/SQL-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/Coconut-X/SQL-LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -35,8 +37,17 @@
 | [0100-same-tree](https://github.com/Coconut-X/SQL-LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Coconut-X/SQL-LeetCode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Coconut-X/SQL-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/Coconut-X/SQL-LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Stack
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Coconut-X/SQL-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Coconut-X/SQL-LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Coconut-X/SQL-LeetCode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
